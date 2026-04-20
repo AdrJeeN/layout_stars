@@ -1,6 +1,8 @@
 /* add styles here */
 body {
   margin: 0;
+
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .stars {
@@ -9,8 +11,6 @@ body {
 }
 
 .stars__star {
-  display: flex;
-  justify-content: space-between;
   margin-right: 4px;
   height: 16px;
   width: 16px;
